@@ -6,7 +6,7 @@
 		<h1>Kontakt podaci</h1>
 		<h2>Katarina Landeka</h2>
 		<p>katarina.landeka@vvg.hr</p> 
-		<form action="http://localhost/project-php-api/send-contact.php" id="contact_form" name="contact_form" method="POST">
+		<form action="http://localhost/project-php-kl/send-contact.php" id="contact_form" name="contact_form" method="POST">
 			<label for="fname">Vaše ime *</label>
 			<input type="text" id="fname" name="firstname" placeholder="Vaše ime.." required>
 			
