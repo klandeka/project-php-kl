@@ -70,10 +70,10 @@ print '
 	</head>
 <body>
 	<header>
-		<div'; if ($menu > 1) { print ' class="hero-subimage"'; } else { print ' class="hero-image"'; }  print '></div>
-		<nav>';
+		<nav class="navbar">';
 			include("menu.php");
 		print '</nav>
+		<div'; if ($menu > 1) { print ' class="hero-subimage"'; } else { print ' class="hero-image"'; }  print '></div>
 	</header>
 	<main>';
 		if (isset($_SESSION['message'])) {
@@ -105,7 +105,7 @@ print '
 	# Gallery
 	else if ($menu == 8) { include("gallery.php"); }
 	
-	#
+	# Our dogs
 	else if ($menu == 10) { include("our-dogs.php"); }
 	
 	

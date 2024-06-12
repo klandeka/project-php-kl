@@ -10,12 +10,12 @@
             justify-content: center;
         }
         .gallery-item {
-            max-width: 23%; /* Postavite maksimalnu širinu na 23% za 4 slike po redu */
+            max-width: 23%; 
             box-sizing: border-box;
             text-align: center;
         }
         .gallery img {
-            width: 100%; /* Slika će zauzeti cijelu širinu roditelja */
+            width: 100%; 
             height: auto;
             border: 2px solid #ccc;
             padding: 10px;
@@ -46,16 +46,16 @@
 
        
         $texts = [
-            'Pas 1: Ovaj pas voli duge šetnje.',
-            'Pas 2: Ovaj pas obožava igru s loptom.',
-            'Pas 3: Ovaj pas je veliki ljubitelj maženja.',
-            'Pas 4: Ovaj pas je vrlo energičan i zaigran.',
-            'Pas 5: Ovaj pas uživa u plivanju.',
-            'Pas 6: Ovaj pas je vrlo poslušan i pametan.',
-            'Pas 7: Ovaj pas voli društvo drugih pasa.',
-            'Pas 8: Ovaj pas je veliki avanturist.',
-            'Pas 9: Ovaj pas je vrlo zaštitnički nastrojen.',
-            'Pas 10: Ovaj pas je pravi obiteljski ljubimac.',
+            'Ovaj pas voli duge šetnje.',
+            'Ovaj pas obožava igru s loptom.',
+            'Ovaj pas je veliki ljubitelj maženja.',
+            'Ovaj pas je vrlo energičan i zaigran.',
+            'Ovaj pas uživa u plivanju.',
+            'Ovaj pas je vrlo poslušan i pametan.',
+            'Ovaj pas voli društvo drugih pasa.',
+            'Ovaj pas je veliki avanturist.',
+            'Ovaj pas je vrlo zaštitnički nastrojen.',
+            'Ovaj pas je pravi obiteljski ljubimac.',
         ];
 
         

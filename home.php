@@ -25,7 +25,7 @@ Unatoč tome, osoblje azila i volonteri čine sve kako bi poboljšali kvalitetu 
 	
 	<p>Social media:<br>
 		<a href="https://www.linkedin.com/" target="_blank"><img src="img/linkedin.svg" alt="Linkedin" title="Linkedin" style="width:24px; margin-top:0.4em"></a>
-		<a href="https://twitter.com/" target="_blank"><img src="img/twitter.svg" alt="Twitter" title="Twitter" style="width:24px; margin-top:0.4em"></a>
-		<a href="https://plus.google.com/" target="_blank"><img src="img/google+.svg" alt="Google+" title="Google+" style="width:24px; margin-top:0.4em"></a>
+		<a href="https://www.instagram.com/" target="_blank"><img src="img/instagram.svg" alt="Instagram" title="Instagram" style="width:24px; margin-top:0.4em"></a>
+		<a href="https://www.facebook.com/" target="_blank"><img src="img/facebook.svg" alt="Facebook" title="Facebook" style="width:24px; margin-top:0.4em"></a>
 	</p>';
 ?>
